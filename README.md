@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Min-Chun](https://www.linkedin.com/in/min-chun-shih/).
 
 <!--
 **shihs/shihs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Shihs's github stats](https://github-readme-stats.vercel.app/api?username=shihs&show_icons=true&hide_border=true)&nbsp;&nbsp;
+<!-- ![Shihs's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shihs&layout=compact&langs_count=8&hide_border=true) -->
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=shihs.shihs)
