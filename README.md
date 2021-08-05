@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-![Shihs's github stats](https://github-readme-stats.vercel.app/api?username=shihs&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Shihs's github stats](https://github-readme-stats.vercel.app/api?username=shihs&show_icons=true&count_private=true&hide_border=true&theme=dark)&nbsp;&nbsp;
 <!-- ![Shihs's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shihs&layout=compact&langs_count=8&hide_border=true) -->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=shihs.shihs)
+
