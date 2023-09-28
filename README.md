@@ -1,4 +1,4 @@
-### Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Min-Chun](https://www.linkedin.com/in/min-chun-shih/).
+Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Min-Chun](https://www.linkedin.com/in/min-chun-shih/).
 
 <!--
 **shihs/shihs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
